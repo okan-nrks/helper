@@ -1,2 +1,2 @@
 # Helper
-Yardımcı kütüphaneler içerir.
+Yardımcı kütüphaneler içerir..
