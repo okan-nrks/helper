@@ -2,7 +2,7 @@ var re = /-?\d+/;
 
 function DatetimeStringToDate(datetime)
 {
-    var m = re.exec(kelime);
+    var m = re.exec(datetime);
     var d = new Date(parseInt(m[0]));
     return d;
 
