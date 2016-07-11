@@ -1,3 +1,5 @@
+var re = /-?\d+/;
+
 function DatetimeStringToDate(datetime)
 {
     var m = re.exec(kelime);
