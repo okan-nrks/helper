@@ -11,3 +11,7 @@ function DateToString(d)
 {
   return d.getDate() + "."+d.getMonth()+"."+d.getFullYear() + " " + d.getHours() + ":" + d.getMinutes();
 }
+function getValue(id)
+{
+    return document.getElementById(id).value;
+}
